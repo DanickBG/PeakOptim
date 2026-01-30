@@ -41,7 +41,7 @@ The script implements:
 ```
 IOM_PeakOptim/
 │
-├── Main.py   # Main analysis script
+├── Main.py                         # Main analysis script
 ├── Samples/                        # Input XRD files (.nja)
 ├── Results/
 │   ├── Combined/                   # Combined PDF + Excel output
